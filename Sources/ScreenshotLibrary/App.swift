@@ -2,6 +2,7 @@ import SwiftUI
 import Vision
 import AppKit
 import CryptoKit
+import UniformTypeIdentifiers
 
 struct Shot: Codable, Identifiable {
     var id: String
